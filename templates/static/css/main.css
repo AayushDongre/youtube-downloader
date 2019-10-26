@@ -1,0 +1,19 @@
+body{
+    background-color: #222;
+
+}
+.download-button{
+    background-color: #ddd;
+}
+.notYoutubeAlert{
+    display: none;
+}
+.hangOn{
+    display: none;
+}
+.memes{
+    display: none;
+}
+.meantime{
+    color:white
+}
